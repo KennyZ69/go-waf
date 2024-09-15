@@ -1,3 +1,0 @@
-WAF_LOG: 2024/09/15 14:42:20 waf.go:17: Blocked request from 192.0.2.1:1234: SQLi/XSS attack detected, URL: /?q=%27+OR+1%3D1--
-WAF_LOG: 2024/09/15 14:42:41 waf.go:17: Blocked request from 192.0.2.1:1234: SQLi/XSS attack detected, URL: /?q=<script>alert('XSS')</script>
-WAF_LOG: 2024/09/15 14:43:39 waf.go:17: Blocked request from 192.0.2.1:1234: SQLi/XSS attack detected, URL: /?q=<script>alert('XSS')</script>
